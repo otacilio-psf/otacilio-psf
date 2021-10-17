@@ -17,6 +17,7 @@
 <div> 
   <a href = "https://www.credly.com/badges/4dc029b1-822a-4169-9c5e-2c5281718378/public_url" target="_blank"><img height="100" src="attachment/azure-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credly.com/badges/de92dc79-706d-4a46-bf46-8a29d558727a/public_url" target="_blank"><img height="100" src="attachment/azure-data-fundamentals-600x600.png" target="_blank"></a>
+  <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="100" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
 ##
