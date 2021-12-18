@@ -14,9 +14,10 @@
   <img align="center" alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
 
-<div> 
-  <a href = "https://www.credly.com/badges/4dc029b1-822a-4169-9c5e-2c5281718378/public_url" target="_blank"><img height="100" src="attachment/azure-fundamentals-600x600.png" target="_blank"></a>
-  <a href = "https://www.credly.com/badges/de92dc79-706d-4a46-bf46-8a29d558727a/public_url" target="_blank"><img height="100" src="attachment/azure-data-fundamentals-600x600.png" target="_blank"></a>
+<div>
+  <a href = "https://www.credly.com/badges/229e1597-0d16-4265-9e0f-746c3e3920e8/public_url" target="_blank"><img alt="Azure Data Engineer Associate" height="100" src="attachment/microsoft-certified-azure-data-engineer-associate.png" target="_blank"></a>
+  <a href = "https://www.credly.com/badges/de92dc79-706d-4a46-bf46-8a29d558727a/public_url" target="_blank"><img alt="Azure Data Fundamentals" height="100" src="attachment/azure-data-fundamentals-600x600.png" target="_blank"></a>
+  <a href = "https://www.credly.com/badges/4dc029b1-822a-4169-9c5e-2c5281718378/public_url" target="_blank"><img alt="Azure Fundamentals" height="100" src="attachment/azure-fundamentals-600x600.png" target="_blank"></a>
   <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="100" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
