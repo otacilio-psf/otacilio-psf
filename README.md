@@ -15,7 +15,7 @@ I am graduated in Production Engineering, passionate about technology and progra
   <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
-  <img align="center" alt="Databricks" height="45" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/databricks-logo-768x434.png">
+  <img align="center" alt="Databricks" height="45" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png">
   <img align="center" alt="Delta Lake" height="45" src="attachment/delta-lake.png">
   <img align="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
