@@ -13,9 +13,9 @@ I am graduated in Production Engineering, passionate about technology and progra
 ## Skills
 <div style="display: inline_block">
   <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="Databricks" height="45" src="attachment/databricks-logo.png">
   <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
-  <img align="center" alt="Databricks" height="45" src="attachment/databricks-logo.png">
   <img align="center" alt="Delta Lake" height="45" src="attachment/delta-lake.png">
   <img align="center" alt="Docker" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
