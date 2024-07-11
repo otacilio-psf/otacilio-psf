@@ -6,7 +6,6 @@ I am graduated in Production Engineering, passionate about technology and progra
   
 <div align="left">
   <a href="https://github.com/otacilio-psf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otacilio-psf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otacilio-psf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
