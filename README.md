@@ -1,8 +1,14 @@
 ## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/portugal-flag-400.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
 
-Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.
+Results-driven Data Engineer with extensive experience in data ingestion and pipeline development within the Big Data ecosystem, both on-premises and in the cloud. Expertise in lakehouse storage, Python, Spark, Azure, Databricks and Snowflake, with a strong background in SQL, Linux, Docker and CI/CD pipelines. Adept at leading teams, solution design, and data migration projects.
 
-I am graduated in Production Engineering, passionate about technology and programming and I have a data driven and goal oriented culture.
+I hold a degree in Industrial Engineering and have a deep passion for technology and programming. With a data-driven mindset and a goal-oriented approach, I thrive on solving complex problems and driving impactful results.
+
+Technical Skills:  
+- Cloud Platforms: Microsoft Azure (Data Factory, Synapse Analytics, Storage Account (data lake), DevOps, Kubernetes, Functions)  
+- Big Data & ETL: Databricks, Delta Lake, Snowflake  
+- Programming: Python, Spark, SQL, Shell, PowerShell  
+- DevOps & Containers: CI/CD (Azure DevOps), Docker, Linux/WSL  
   
 <div align="left">
   <a href="https://github.com/otacilio-psf">
